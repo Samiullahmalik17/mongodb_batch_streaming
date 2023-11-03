@@ -1,0 +1,1 @@
+**Task for batch streaming NoSQL mongodb data to datalake**
